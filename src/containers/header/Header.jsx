@@ -12,10 +12,8 @@ const Header = () => {
           Let&apos;s Build Something amazing with GPT-3 OpenAI
         </h1>
         <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+        Welcome to our website, where we are dedicated to advancing the field of artificial intelligence and its numerous applications. With a team of experts and state-of-the-art technology, we are constantly researching and developing innovative AI solutions that can improve various industries and make our lives easier and more efficient. 
+        From machine learning and natural language processing to computer vision and robotics, we are constantly pushing the boundaries of what is possible with AI.
         </p>
 
         <div className="gpt3__header-content__input">

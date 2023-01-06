@@ -4,20 +4,20 @@ import { Feature } from '../../components';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'Predictive Analysis',
+    text: 'Using historical data and machine learning algorithms, these systems can make informed predictions about future outcomes and trends.',
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'Natural language processing (NLP)',
+    text: 'These systems enable computers to understand and interpret human language, allowing for more efficient and effective communication between humans and machines.',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Computer vision',
+    text: 'These systems allow computers to analyze and understand images and videos, enabling them to perform tasks such as object recognition and facial recognition.',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'Robotics',
+    text: 'AI-powered robots can be programmed to perform a variety of tasks, from manufacturing and assembly to customer service and healthcare.',
   },
 ];
 
